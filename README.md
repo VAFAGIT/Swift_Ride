@@ -17,7 +17,7 @@
  ```
 $ npm start
 ```
- 3. Start the development client:
+ 3. Start the development server client_side:
  ```
 $ npx expo start
 ```
